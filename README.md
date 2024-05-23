@@ -1,16 +1,16 @@
-## Hi there 👋
+## bem vindos ao meu perfil 💙
+- Meu nome é Fellipe Zancanaro
+- Estou estudando alura
+- Estou me desenvolvendo na linguagem JavaScrip
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- ![image](https://github.com/Lipefemz/Lipefemz/assets/170444804/c6e88373-668f-4734-8220-da5087a96188)
 
-<!--
-**Lipefemz/Lipefemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eis que perguntam pra vc quantas notas vermelhas vc tirou nesse trimestre
+
+
+![image](https://github.com/Lipefemz/Lipefemz/assets/170444804/25eb17b3-0ceb-4bec-a742-7a7543daa17a)
+
+
+
